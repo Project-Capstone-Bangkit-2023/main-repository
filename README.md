@@ -9,6 +9,8 @@ Hi, there ! We are from C23-PS352 team of Bangkit 2023 Capstone Project. We buil
     * [X] Determine Which Data Will be Used
     * [X] Feature and Label Extraction
     * [X] Data Preparation
+    * [X] Develop recommender system model
+    * [X] Train and test the model
 * Cloud Computing
     * [X] Setup Backend Project (NodeJS & Express)
     * [X] Make Migrations and Seeders
