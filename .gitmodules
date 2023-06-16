@@ -1,0 +1,9 @@
+[submodule "ML"]
+	path = ML
+	url = https://github.com/Project-Capstone-Bangkit-2023/myTravel-model.git
+[submodule "MD"]
+	path = MD
+	url = https://github.com/Project-Capstone-Bangkit-2023/myTravel-app.git
+[submodule "CC"]
+	path = CC
+	url = https://github.com/Project-Capstone-Bangkit-2023/admin-app.git
