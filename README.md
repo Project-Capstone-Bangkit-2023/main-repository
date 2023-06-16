@@ -23,12 +23,12 @@ Indonesia is famous for its natural beauty, beautiful beaches, national parks, t
 
 | Name      | Bangkit ID | Learning Path | Contact Link |
 | ----------- | ----------- | ----------- | ----------- |
-| Dafid Prasetyo      | Title       | Header      | Title       |
-| David Mahbubi   | Text        | Header      | Title       |
-| Maulana Abdul Aziz   | Text        | Header      | Title       |
-| Nanda Pramudia Santosa | Text        | Header      | Title       |
-| Rhesa Desvara | Text        | Header      | Title       |
-| Laily Badria | Text        | Header      | Title       |
+| Dafid Prasetyo      | C058DSX0812       | CC      | [LinkedIn](https://www.linkedin.com/in/dafidpr/en-us?trk=people-guest_people_search-card)       |
+| David Mahbubi   | C058DSX0657        | CC      | [LinkedIn](https://id.linkedin.com/in/david-mahbubi)       |
+| Maulana Abdul Aziz   | M017DSX2145        | ML      | [LinkedIn](https://id.linkedin.com/in/maulana-abdul-aziz-711955218)       |
+| Nanda Pramudia Santosa | M017DKX4184        | ML      | [LinkedIn](https://id.linkedin.com/in/nanda-pramudia-santosa-aa16351ba)       |
+| Rhesa Desvara | A160DSX1716        | MD      | [LinkedIn](https://id.linkedin.com/in/rhesa-devara-widyaputra-854213160)       |
+| Laily Badria | A160DSY1728        | MD      | LinkedIn       |
 
 ## API Documentations
 
