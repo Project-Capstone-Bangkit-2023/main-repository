@@ -5,10 +5,12 @@ Hi, there ! We are from C23-PS352 team of Bangkit 2023 Capstone Project. We buil
 
 ## Task List
 * Machine Learning
-    * [X] Find and Explor Data
+    * [X] Find and Explore Data
     * [X] Determine Which Data Will be Used
     * [X] Feature and Label Extraction
     * [X] Data Preparation
+    * [X] Develop recommender system model
+    * [X] Train and test the model
 * Cloud Computing
     * [X] Setup Backend Project (NodeJS & Express)
     * [X] Make Migrations and Seeders
@@ -41,5 +43,5 @@ Indonesia is famous for its natural beauty, beautiful beaches, national parks, t
 | David Mahbubi   | C058DSX0657        | CC      | [LinkedIn](https://id.linkedin.com/in/david-mahbubi)       |
 | Maulana Abdul Aziz   | M017DSX2145        | ML      | [LinkedIn](https://id.linkedin.com/in/maulana-abdul-aziz-711955218)       |
 | Nanda Pramudia Santosa | M017DKX4184        | ML      | [LinkedIn](https://id.linkedin.com/in/nanda-pramudia-santosa-aa16351ba)       |
-| Rhesa Desvara | A160DSX1716        | MD      | [LinkedIn](https://id.linkedin.com/in/rhesa-devara-widyaputra-854213160)       |
+| Rhesa Devara Widyaputra| A160DSX1716        | MD      | [LinkedIn](https://id.linkedin.com/in/rhesa-devara-widyaputra-854213160)       |
 | Laily Badria | A160DSY1728        | MD      | [LinkedIn](https://www.linkedin.com/in/lailybadria/)       |
