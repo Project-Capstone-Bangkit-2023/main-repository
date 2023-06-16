@@ -18,6 +18,7 @@ Indonesia is famous for its natural beauty, beautiful beaches, national parks, t
 <img src="https://github.com/Project-Capstone-Bangkit-2023/main-repository/blob/master/Screenshoots/3.%20Setup%20Category%20Page.jpeg?raw=true" width="100">
 <img src="https://github.com/Project-Capstone-Bangkit-2023/main-repository/blob/master/Screenshoots/4.%20Home%20Page.jpeg?raw=true" width="100">
 </p>
+
 ## Person Behind this Project
 
 | Name      | Bangkit ID | Learning Path | Contact Link |
