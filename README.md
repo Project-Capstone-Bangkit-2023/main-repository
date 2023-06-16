@@ -5,8 +5,22 @@ Hi, there ! We are from C23-PS352 team of Bangkit 2023 Capstone Project. We buil
 
 ## Task List
 * Machine Learning
+    * [X] Find and Explor Data
+    * [X] Determine Which Data Will be Used
+    * [X] Feature and Label Extraction
+    * [X] Data Preparation
 * Cloud Computing
+    * [X] Setup Backend Project (NodeJS & Express)
+    * [X] Make Migrations and Seeders
+    * [X] Develop Admin Panel
+    * [X] Make API Endpoint for Mobile
+    * [X] Setup Compute Engine, CloudSQL, Cloud Storage
 * Mobile Development
+    * [X] UI/UX Design
+    * [X] Slicing UI/UX to Code
+    * [X] Consume API From Backend
+    * [X] Consume API From Google Routes API
+    * [X] Consume API From OpenWeatherMap
 ## Background Facts
 
 Indonesia is famous for its natural beauty, beautiful beaches, national parks, traditional villages, and hidden gems that highlight its rich culture and heritage. The tourism sector is vital for the country's development as it creates jobs, increases national income, and improves infrastructure. The growth of tourism is expected to improve the quality of life for local communities while preserving the environment and cultural heritage. Therefore, we have developed an application to help tourists explore Indonesia, while also supporting infrastructure development and enhancing connectivity to tourist destinations. 
@@ -28,8 +42,4 @@ Indonesia is famous for its natural beauty, beautiful beaches, national parks, t
 | Maulana Abdul Aziz   | M017DSX2145        | ML      | [LinkedIn](https://id.linkedin.com/in/maulana-abdul-aziz-711955218)       |
 | Nanda Pramudia Santosa | M017DKX4184        | ML      | [LinkedIn](https://id.linkedin.com/in/nanda-pramudia-santosa-aa16351ba)       |
 | Rhesa Desvara | A160DSX1716        | MD      | [LinkedIn](https://id.linkedin.com/in/rhesa-devara-widyaputra-854213160)       |
-| Laily Badria | A160DSY1728        | MD      | LinkedIn       |
-
-## API Documentations
-
-You can view the API Documentation through [Postman Documentation](https://documenter.getpostman.com/view/8393465/2s93shyV29)
+| Laily Badria | A160DSY1728        | MD      | [LinkedIn](https://www.linkedin.com/in/lailybadria/)       |
